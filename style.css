@@ -4,12 +4,15 @@
     border: solid 1px rgb(5, 5, 5);
     display: flex;
     flex-wrap: wrap;
+    /* background-image: url("./IMG_2359.JPG"); */
+    background-size: cover;
 }
 
 .grid div {
     width: 20px;
     height: 20px;
     box-sizing: border-box;
+  
 
  
 }
@@ -24,7 +27,7 @@ background-color: blue;
 }
  
 .laser{
-background-color:  rgb(8, 241, 8);
+background-color:  rgb(241, 113, 8);
 }
 
 .boom {
